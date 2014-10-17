@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wni:home|Door43 (wni)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wni|d43-wni repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wni/archive/master.zip|d43-wni.zip]]
+
+**Recent Changes**
+{{changes>ns = wni}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wni|Ethnologue data]]
+
